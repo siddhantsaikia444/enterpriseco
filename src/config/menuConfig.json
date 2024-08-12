@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Registration Form v1",
+      "component": "RegistrationFormV1",
+      "featureFlag": true
+    },
+    {
+      "id": 2,
+      "name": "Registration Form v2",
+      "component": "RegistrationFormV2",
+      "featureFlag": true
+    }
+  ]
+  
