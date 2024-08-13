@@ -2,10 +2,12 @@ import React from 'react';
 import { useSelector } from 'react-redux';
 import RegistrationFormV1 from '../dynamic/RegistrationFormV1';
 import RegistrationFormV2 from '../dynamic/RegistrationFormV2';
+import MainFlowComponent from './react-flow/MainFlowComponent';
 
 const componentMap = {
   RegistrationFormV1,
   RegistrationFormV2,
+  MainFlowComponent,
 };
 
 const DynamicComponentLoader = () => {
